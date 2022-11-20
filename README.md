@@ -1,2 +1,2 @@
 # EN1093
-Laboratory Practise
+Laboratory Practice
